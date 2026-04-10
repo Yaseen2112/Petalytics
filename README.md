@@ -77,13 +77,6 @@ A window will appear where you can input the measurements of an Iris flower's se
 
 ---
 
-## Author
-
-Developed by SHAIK YASEEN.
-Phone No: 9704330969
-MailID: skyaseen2112@gmail.com
----
-
 ## License
 
 This project is MIT licensed.
